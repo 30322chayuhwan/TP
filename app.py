@@ -10,7 +10,7 @@ def image_skill():
         "template": {
             "outputs": [{
                 "simpleImage": {
-                    "imageUrl": "https://i.ifh.cc/NqhMQ1.jpg",
+                    "imageUrl": "https://i.ifh.cc/OL5Ntn.jpg",
                     "altText": "tfscrdd"
                 }
             }]
